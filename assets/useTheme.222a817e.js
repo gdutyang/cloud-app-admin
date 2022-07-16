@@ -1,0 +1,1 @@
+import{g as r}from"./index.21661719.js";import{v as o,w as t,x as s}from"./@vueuse.b31bd3d5.js";const e=o({modes:{light:"light",dark:"dark",sky:"sky"}}),a=t(),i=r();a.value&&i==="auto"&&(e.value="dark");const{next:l,state:u}=s(["light","dark","sky"],{initialValue:e});function m(){return{next:l,state:u}}export{m as u};
